@@ -1,6 +1,2 @@
 #!/bin/bash
-
-# are we really
-whoami > /tmp/testfile_for_cert.txt
-
-df -h >> /tmp/testfile_for_cert.txt
+echo "This is the cert test"
