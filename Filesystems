@@ -1,6 +1,6 @@
 #!/bin/bash
 
 # are we really
-whoami
+whoami > /tmp/testfile_for_cert.txt
 
-df -h
+df -h >> /tmp/testfile_for_cert.txt
