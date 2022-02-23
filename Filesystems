@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# are we really
+whoami
+
+df -h
